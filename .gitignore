@@ -1,0 +1,7 @@
+*.json
+/vendor/
+*.env
+*.lock
+*.yml
+/mysql/
+/node_modules/
