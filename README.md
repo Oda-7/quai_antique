@@ -8,3 +8,5 @@ une fois le fichier copier, coller le dans
 le dossier www (WampServer) ou htdocs (Xampp)
 ensuite il va vous falloir récuperér vos coordonnées de base de donnée de PHP MyAdmin 
 pour aller modifier les variable dans le fichier "info_db.php"
+
+Si vous voulez avoir tout les droit, il vous faudra modifier dans la table "users" le "user_role_id" est le mettre sur 2 
